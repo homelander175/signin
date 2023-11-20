@@ -1,0 +1,123 @@
+body{
+    margin: 30px;
+    padding: 0px;
+    background-color: ;
+    background-image  :  url(../roadster-social-1613398381.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 1531px;
+    margin-top: -3%; 
+    margin-left: 0%;
+    
+}
+#first{
+    color: #0D0D0D;
+}
+#first::placeholder{
+    color: #8C847D;
+}#singup{
+    display: flex;
+    justify-content: center;
+   margin-top: -23%;
+}
+.tesla{
+
+    border-radius: 7px;
+    margin-bottom: 1%;
+    height: 160px;
+    margin-left: -88%;
+    padding: 0%;
+    filter: blur(10px);
+    
+}
+
+.tesla:hover{
+    
+    border-radius: 7px;
+    transition: 500ms;
+    transform: scale(1.7);
+    filter: blur(0px);
+margin-bottom: 1%;
+    height: 150px;
+    margin-left: -88%;
+    padding: 0%;
+    
+}
+.fa-earth-asia{
+    position: absolute;
+    top: 2%;
+    left: 96%;
+    height: 50px;
+    color: black;
+}
+.fa-circle-user{
+    position: absolute;
+    top: 2%;
+    left: 98%;
+    
+    color: black;
+
+}
+.fa-circle-question{
+    position: absolute;
+    top: 2%;
+    left: 94%;
+    
+    color: black;
+
+}
+form{
+    /* position: fixed;+ */
+    background-color: rgba(0, 0, 0, 0.521)  ;
+    width: 22%;
+    margin-top: 3%;
+    border-radius: 5px;
+    padding: 25px;
+    margin-bottom: 0%;
+}
+form label{
+
+    color: #D9D8D7;
+
+}
+
+#logo
+{position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 35px;
+    color: black;
+
+}
+#poster{
+    border-radius: 7px;
+    filter: blur(10px);
+    height: 250px;
+    margin-left: 83%;
+    padding: 0%;
+    margin-top: 15%;
+    
+    
+
+}
+#poster:hover{
+    
+    border-radius: 7px;
+    transition: 500ms;
+    transform: scale(1.7);
+    filter: blur(0px);
+    margin-top: 15%;
+    height: 250px;
+    margin-left: 83%;
+    padding: 0%;
+    
+}
+#bg2{
+    background-size: 1531px;
+    width: 94%;
+    align-items: center;
+display: flex;
+    margin-top: 56%;
+    padding: 0px;
+}
+
+
